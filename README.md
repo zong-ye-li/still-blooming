@@ -1,6 +1,6 @@
 # Still Blooming
 
-Still Blooming is a quiet digital space for mothers to keep a personal orchid, reflect through private notes, and share encouragement in a shared garden.
+Still Blooming is a quiet digital space for mothers to keep a personal orchid, reflect through private notes, and share encouragement in a shared garden. The index page explains the concept behind our product, and the feature_guide page introduces captured demo behavior.
 
 - `index.html` — The Journey: the product story.
 - `feature_guide.html` — Feature Guide: the original working-demo screenshots and feature explanations.
@@ -11,10 +11,6 @@ This product is produced by **LI Zong-Ye** (CityUHK, repo author), **HE Shuling*
 - **LI Zong-Ye**: Full-Stack Product Development
 - **HE Shuling**: 3D Orchid Model Building
 - **SU Xiaotong**: Background investigation of medical data used
-
-## About this page
-
-The index page explains the concept behind our product, and the feature_guide page introduces captured demo behavior. 
 
 ## Directory layout
 
