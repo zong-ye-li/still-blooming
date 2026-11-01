@@ -2,8 +2,10 @@
 
 Still Blooming is a quiet digital space for mothers to keep a personal orchid, reflect through private notes, and share encouragement in a shared garden. The index page explains the concept behind our product, and the feature_guide page introduces captured demo behavior.
 
-- `index.html` — The Journey: the product story.
-- `feature_guide.html` — Feature Guide: the original working-demo screenshots and feature explanations.
+- [`index.html`](https://zong-ye-li.github.io/still-blooming/) — The Journey: the product story.
+- [`feature_guide.html`](https://zong-ye-li.github.io/still-blooming/feature_guide.html) — Feature Guide: the original working-demo screenshots and feature explanations.
+
+<img src="assets/story/repaired/garden-47-v1.png" height="700"> <img src="assets/story/repaired/private-44-v1.png" height="700">
 
 ## Development
 
